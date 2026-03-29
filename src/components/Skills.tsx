@@ -28,7 +28,7 @@ export default function Skills() {
               SKILLS
             </h2>
           </div>
-          <p className="hidden md:block font-body text-sm text-[#6b6b8a] max-w-sm mb-4 leading-relaxed">
+          <p className="hidden md:block font-body text-sm text-[#6b6b8a] max-w-md mb-4 leading-relaxed">
             Focused stack — not everything, just what I actually ship with.
           </p>
         </div>
