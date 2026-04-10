@@ -24,7 +24,7 @@ export const projects: Project[] = [
     githubLink: 'https://github.com/MohammadRaiyyan/personal-assistent',
     link: 'https://personal-assistent-five.vercel.app/',
     colorTheme: '#00f5c4',
-    tags: ['react-19', 'typescript', 'express.js', 'postgresql', 'drizzle-orm', 'gemini-api'],
+    tags: ['react-19', 'typescript', 'python', 'fastapi', 'postgresql', 'gemini-api'],
     featured: true,
   },
   {
@@ -95,9 +95,9 @@ export const skills: Skill[] = [
   { name: 'Zustand', category: 'State', icon: 'https://cdn.simpleicons.org/react/e2813a' },
   // Backend
   { name: 'Node.js', category: 'Backend', icon: 'https://cdn.simpleicons.org/nodedotjs/339933' },
-  { name: 'Express.js', category: 'Backend', icon: 'https://cdn.simpleicons.org/express/ffffff' },
+  { name: 'Python', category: 'Language', icon: 'https://cdn.simpleicons.org/python' },
+  { name: 'FastAPI', category: 'Backend', icon: 'https://cdn.simpleicons.org/fastapi' },
   { name: 'PostgreSQL', category: 'Backend', icon: 'https://cdn.simpleicons.org/postgresql/336791' },
-  { name: 'Java', category: 'Language', icon: 'https://cdn.simpleicons.org/openjdk/ffffff' },
   { name: 'GraphQL', category: 'Frontend', icon: 'https://cdn.simpleicons.org/graphql/e10098' },
   // Tools
   { name: 'Git', category: 'Tools', icon: 'https://cdn.simpleicons.org/git/F05032' },
